@@ -7,7 +7,7 @@ void print_list(list <int> l1)
 {
     for(auto x : l1)
     {
-        cout<<x<<" ";
+        cout<<x<<"  ";
     }
     cout<<endl;
 }
